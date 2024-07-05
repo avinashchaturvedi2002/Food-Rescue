@@ -1,0 +1,83 @@
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.exe
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.deps.json
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.runtimeconfig.json
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.pdb
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.AssemblyReference.cache
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Form1.resources
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Resources.resources
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.GenerateResource.cache
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.AssemblyInfoInputs.cache
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.AssemblyInfo.vb
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.CoreCompileInputs.cache
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.dll
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\refint\FoodRescue.dll
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.pdb
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.genruntimeconfig.cache
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\ref\FoodRescue.dll
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Register_Form.resources
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\FoodRescue Project\FoodRescue\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Login_Form.resources
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.CopyComplete
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.NGO_Home.resources
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Restaurant_Home.resources
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Admin_home.resources
+D:\FoodRescue Project\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.donatedfood.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.exe
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.deps.json
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.runtimeconfig.json
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\FoodRescue.pdb
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.AssemblyReference.cache
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Admin_home.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Form1.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Login_Form.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Resources.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.NGO_Home.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Register_Form.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Restaurant_Home.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.GenerateResource.cache
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.AssemblyInfoInputs.cache
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.AssemblyInfo.vb
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.CoreCompileInputs.cache
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.vbproj.CopyComplete
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\refint\FoodRescue.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.pdb
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.genruntimeconfig.cache
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\ref\FoodRescue.dll
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.FoodEntry.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Food_data.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.RequestFormNGO.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.FoodReqByNGO.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.ViewFoodReq.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.RestDashboard.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.reqdetngo.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.ngodashboard.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.NGOEnquiry.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.Admin_Dashboard.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.mngfooddonor.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.edtuserdetail.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.AdminEnquiry.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.FoodRequestsAdmin.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.FoodDetails.resources
+C:\Users\avina\source\repos\WindowsApp1\FoodRescue\obj\Debug\net6.0-windows\FoodRescue.EnterFood.resources
