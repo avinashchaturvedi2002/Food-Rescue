@@ -56,3 +56,24 @@ The **Food Rescue** project is a comprehensive system designed to manage food do
 
 - [Visual Studio](https://visualstudio.microsoft.com/) for the development environment.
 - [GitHub](https://github.com/) for version control and collaboration.
+
+- 
+![Screenshot 2024-07-17 151901](https://github.com/user-attachments/assets/63422825-3548-4279-b516-0af38348a4bb)
+![Screenshot 2024-07-17 152315](https://github.com/user-attachments/assets/aae6ac46-83f0-4cbd-9969-92db67d6bc3b)
+![Screenshot 2024-07-17 151917](https://github.com/user-attachments/assets/cb38006b-4bdc-463c-a2bb-52edf59a2a06)
+![Screenshot 2024-07-17 151930](https://github.com/user-attachments/assets/21b61809-d9ee-4133-bcf8-b83ef6a48703)
+![Screenshot 2024-07-17 151945](https://github.com/user-attachments/assets/267af01b-ceb5-40d3-bb2b-69c5e22dd84e)
+![Screenshot 2024-07-17 152001](https://github.com/user-attachments/assets/90f0cb90-0f63-41ef-928f-eb173fa0792a)
+![Screenshot 2024-07-17 152013](https://github.com/user-attachments/assets/0c633634-5e02-41b8-b47f-e068d3499a13)
+![Screenshot 2024-07-17 152029](https://github.com/user-attachments/assets/c013a2d3-08a8-49df-a243-c60e7a31d283)
+![Screenshot 2024-07-17 152536](https://github.com/user-attachments/assets/539f156a-cbf3-4a28-8706-03ac2093dc13)
+![Screenshot 2024-07-17 152519](https://github.com/user-attachments/assets/23d19604-d9ff-4837-b504-b63020b02bed)
+![Screenshot 2024-07-17 152445](https://github.com/user-attachments/assets/94d2bd5f-7361-42c9-8dce-1986471e477c)
+![Screenshot 2024-07-17 152424](https://github.com/user-attachments/assets/fcb77396-b508-44bc-bff1-7cbe44df6e08)
+![Screenshot 2024-07-17 152303](https://github.com/user-attachments/assets/33dd118a-4b70-43ac-a8b6-3d9fbc90553b)
+![Screenshot 2024-07-17 152218](https://github.com/user-attachments/assets/42c4cac9-af59-4cfc-8a96-9b7894552d27)
+![Screenshot 2024-07-17 152040](https://github.com/user-attachments/assets/4a00cf9f-c17b-46f6-84d6-7f29be6497e0)
+
+
+
+
